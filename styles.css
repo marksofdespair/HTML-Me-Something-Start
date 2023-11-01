@@ -15,10 +15,13 @@ header {
 
 body {
     background-color: #DBF9FC;
+    padding-top: 20px;
     }
 
 h3 {
     border: 2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-radius: 5px;
     text-align: center;
 }
@@ -32,4 +35,12 @@ h3 {
 
 #dadandi {
     text-align: center;
+    padding-bottom: 20px;
+}
+
+#more {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
