@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+p {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+header {
+    background-color: white;
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: center;
+}
+
+body {
+    background-color: #DBF9FC;
+    }
+
+h3 {
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#dad {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#dadandi {
+    text-align: center;
+}
