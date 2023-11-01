@@ -18,6 +18,14 @@ body {
     padding-top: 20px;
     }
 
+.funParagraph {
+  color: green;
+}
+
+#mainHeading {
+    color: red;
+  }  
+
 h3 {
     border: 2px solid black;
     padding-top: 20px;
