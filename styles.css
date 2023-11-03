@@ -1,7 +1,7 @@
 /* Write your CSS here! */
 p {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 150px;
     margin-left: 150px;
 }
@@ -15,8 +15,26 @@ header {
 
 body {
     background-color: #DBF9FC;
-    padding-top: 20px;
+    padding-top: 10px;
+    margin: 8px;
+    display: block;
     }
+
+#Inlink {
+    border: 1px solid #fff0ff;
+    background-color: #fff0ff;
+    list-style: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#Inlink li {
+    display: inline;
+    margin-right: 20px;
+}
 
 .funParagraph {
   color: green;
@@ -47,6 +65,13 @@ h3 {
 }
 
 #more {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#past {
     border: 2px solid black;
     border-radius: 5px;
     margin-left: 150px;
