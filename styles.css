@@ -36,10 +36,6 @@ body {
     margin-right: 20px;
 }
 
-.funParagraph {
-  color: green;
-}
-
 #mainHeading {
     color: red;
   }  
@@ -69,6 +65,10 @@ h3 {
     border-radius: 5px;
     margin-left: 150px;
     margin-right: 150px;
+}
+
+.funParagraph {
+    color: green;
 }
 
 #past {
